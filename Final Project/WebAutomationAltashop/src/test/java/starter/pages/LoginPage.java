@@ -28,6 +28,7 @@ public class LoginPage extends PageObject {
     }
 
     public void kosongEmail(){
+
         $(fieldEmail).type("");
     }
 
